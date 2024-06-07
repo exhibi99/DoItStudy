@@ -26,7 +26,7 @@
                     <li><button>자료실</button></li>
                     <li><button>동영상 강의</button></li>
                     <li><button>교재 샘플</button></li>
-                    <li><button>회사 소개</button></li> -->
+                    <li><button>재훈이 소개</button></li> -->
                 </ul>
             </div>
         </nav>
