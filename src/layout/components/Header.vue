@@ -134,7 +134,7 @@ export default {
                 { menutext: "자료실", link: "/reference" },
                 { menutext: "동영상 강의", link: "/movieclass" },
                 { menutext: "교재 샘플", link: "/classsample" },
-                { menutext: "회사 소개", link: "/company" },
+                { menutext: "재훈이 소개", link: "/company" },
             ],
             form:{
                 id: "",
